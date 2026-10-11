@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Nissan_Titan"
+
+generations:
+  - name: "Second Generation XD (A61)"
+    start_year: 2016
+    end_year: 2024
+    description: "The heavier-duty Titan with the 5.0 L Cummins diesel (to 2019) and the 5.6 L Endurance V8."
